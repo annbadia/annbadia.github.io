@@ -1,4 +1,4 @@
-baseURL = 'https://badia.com/'
+baseURL = 'https://annbadia.github.io/'
 languageCode = 'en-us'
 title = 'Ann Badia'
 theme = 'ananke'
